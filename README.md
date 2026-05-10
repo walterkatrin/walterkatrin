@@ -3,7 +3,7 @@
 
 #### Hi there, I'm Katrin 👋
 
-I am a molecular biologist who turns next-generation sequencing data into clean, scalable workflows, with a focus on genome analysis and host-associated microbiomes. With over 15 years at the bench, I bridge wet lab and computational analysis, building pipelines and protocols in Bash, Python, and R that non-bioinformaticians can use independently. I continuously expand my skill set, prioritizing usability, reproducibility, and translating complex science into practical tools.
+I am a molecular biologist who turns next-generation sequencing data into clean, scalable workflows, with a focus on genome analysis and microbiomes. With over 15 years at the bench, I bridge wet lab and computational analysis, building pipelines and protocols in Bash, Python, and R that non-bioinformaticians can use independently. I continuously expand my skill set, prioritizing usability, reproducibility, and translating complex science into practical tools.
 
 
 #### 🛠 Skills
